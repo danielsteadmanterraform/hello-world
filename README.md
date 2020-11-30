@@ -2,4 +2,4 @@
 
 Hello
 
-This is a test on getting to nkow and use GIt/GitHub
+This is a test on getting to know and use GIt/GitHub
